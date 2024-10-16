@@ -1,0 +1,409 @@
+@charset"utf-8";
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+	body{
+		background-image: url("Images/bga.png");
+		background-repeat:no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+		background-size: cover;
+		
+	}
+#NNSquad {
+	position: absolute;
+	width: 2560px;
+	height: 3568px;
+	overflow: hidden;
+	
+}
+#abj {
+	position: absolute;
+	width: 2152.128px;
+	height: 2987.566px;
+	left: 194px;
+	top: 233px;
+	overflow: visible;
+}
+#abk {
+	position: absolute;
+	width: 2152.128px;
+	height: 2987.566px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#abl {
+	fill: rgba(173,173,173,1);
+}
+.abl {
+	position: absolute;
+	overflow: visible;
+	width: 2100px;
+	height: 2987.566px;
+	left: 51.378px;
+	top: 0px;
+}
+#abm {
+	fill: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.abm {
+	position: absolute;
+	overflow: visible;
+	width: 860px;
+	height: 79px;
+	left: 0px;
+	top: 310px;
+}
+#abn {
+	border: 0;
+	left: 102.878px;
+	top: 326px;
+	position: absolute;
+	overflow: visible;
+	width: 2000px;
+	height: 2428px;
+	text-align: left;
+	font-family: Pontano Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+#abo {
+	border: 0;
+	left: 483.5px;
+	top: 193.5px;
+	position: absolute;
+	overflow: visible;
+	width: 1206px;
+	height: 172px;
+	text-align: center;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+#abp {
+	fill: rgba(0,166,81,1);
+}
+.abp {
+	overflow: visible;
+	position: absolute;
+	width: 2100px;
+	height: 25.915px;
+	left: 51.378px;
+	top: 2730px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#abq {
+	position: absolute;
+	width: 192px;
+	height: 195px;
+	left: 999.359px;
+	top: 12px;
+	overflow: visible;
+}
+#abr {
+	fill: rgba(0,166,81,1);
+}
+.abr {
+	position: absolute;
+	overflow: visible;
+	width: 2099.5px;
+	height: 28.794px;
+	left: 52.628px;
+	top: 1500px;
+}
+#abs {
+	position: absolute;
+	width: 2560px;
+	height: 101px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#abt {
+	position: absolute;
+	width: 2560px;
+	height: 99px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#abu {
+	fill: rgba(43,57,144,1);
+}
+.abu {
+	position: absolute;
+	overflow: visible;
+	width: 2560px;
+	height: 99px;
+	left: 0px;
+	top: 0px;
+}
+#abv {
+	mix-blend-mode: lighten;
+	border: 0;
+	left: 2379.5px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	height: 38px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+#abw {
+	border: 0;
+	left: 1597.932px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	height: 38px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+#abx {
+	border: 0;
+	left: 1749.607px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	height: 38px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+#aby {
+	border: 0;
+	left: 952.257px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	height: 38px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+#abz {
+	border: 0;
+	left: 1197.932px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	height: 38px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+#aca {
+	border: 0;
+	left: 786.582px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	height: 38px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+#acb {
+	border: 0;
+	left: 149px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 242px;
+	height: 82px;
+	text-align: left;
+	font-family: Crimson Text;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(161,157,157,1);
+}
+#acc {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 112px;
+	height: 95px;
+	left: 39px;
+	top: 6px;
+	overflow: hidden;
+}
+#acd {
+	position: absolute;
+	width: 124px;
+	height: 126px;
+	left: -6px;
+	top: 2px;
+	overflow: visible;
+}
+#ace {
+	position: absolute;
+	width: 2560px;
+	height: 200px;
+	left: 0px;
+	top: 3368px;
+	overflow: visible;
+}
+#acf {
+	position: absolute;
+	width: 2560px;
+	height: 200px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#acg {
+	fill: rgba(10,10,10,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.acg {
+	position: absolute;
+	overflow: visible;
+	width: 2560px;
+	height: 200px;
+	left: 0px;
+	top: 0px;
+}
+#ach {
+	border: 0;
+	left: 36px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 668px;
+	height: 22px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#aci {
+	border: 0;
+	left: 36px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 166px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#acj {
+	border: 0;
+	left: 181.876px;
+	top: 159.573px;
+	position: absolute;
+	overflow: visible;
+	width: 662px;
+	height: 22px;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#ack {
+	position: absolute;
+	width: 325px;
+	height: 115px;
+	left: 2092px;
+	top: 30px;
+	overflow: visible;
+}
+#acl {
+	position: absolute;
+	width: 77px;
+	height: 77px;
+	left: 248px;
+	top: 38px;
+	overflow: visible;
+}
+#acm {
+	position: absolute;
+	width: 77px;
+	height: 77px;
+	left: 0px;
+	top: 38px;
+	overflow: visible;
+}
+#acn {
+	position: absolute;
+	width: 62px;
+	height: 62px;
+	left: 163px;
+	top: 53px;
+	overflow: visible;
+}
+#aco {
+	position: absolute;
+	width: 86px;
+	height: 86px;
+	left: 77px;
+	top: 29px;
+	overflow: visible;
+}
+#acp {
+	border: 0;
+	left: 62px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Nunito;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
